@@ -17,9 +17,10 @@
     }
   ],
   "require": {
-    "olifolkerd/convertor": "dev-master",
     "fwidm/dwd-hourly-crawler": "dev-master",
-    "fwidm/geolocation": "dev-master"
+    "fwidm/geolocation": "dev-master",
+    "olifolkerd/convertor": "dev-master"
+
   },
   "extra": {
     "apiato": {
