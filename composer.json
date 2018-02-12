@@ -20,5 +20,11 @@
     "olifolkerd/convertor": "dev-master",
     "fwidm/dwd-hourly-crawler": "dev-master",
     "fwidm/geolocation": "dev-master"
-  }
+  },
+  "extra": {
+    "apiato": {
+      "container": {
+        "name": "WeatherData"
+      }
+    }
 }
