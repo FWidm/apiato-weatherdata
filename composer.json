@@ -18,7 +18,7 @@
   ],
   "require": {
     "fwidm/dwd-hourly-crawler": "dev-master",
-    "fwidm/geolocation": "dev-master",
+    "fwidm/geolocation": "dev-master"
   },
   "extra": {
     "apiato": {
