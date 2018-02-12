@@ -13,14 +13,13 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/FWidm/convertor-mirror"
+      "url": "https://github.com/FWidm/convertor"
     }
   ],
   "require": {
     "fwidm/dwd-hourly-crawler": "dev-master",
     "fwidm/geolocation": "dev-master",
     "olifolkerd/convertor": "dev-master"
-
   },
   "extra": {
     "apiato": {
