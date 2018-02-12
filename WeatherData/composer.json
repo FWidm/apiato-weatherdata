@@ -1,0 +1,24 @@
+{
+  "name": "fwidm/weatherdata",
+  "description": "Apiato Container that contains models for weather data storage.",
+  "type": "apiato-container",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fabian Widmann",
+      "email": "fabian.widmann@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/FWidm/convertor-mirror"
+    }
+  ],
+  "require": {
+    "olifolkerd/convertor": "dev-master",
+    "fwidm/dwd-hourly-crawler": "dev-master",
+    "fwidm/geolocation": "dev-master"
+  }
+}
